@@ -1,0 +1,17 @@
+{
+  "name": "WARDEN Survival Escape Guide",
+  "short_name": "WARDEN Guide",
+  "description": "Independent player guide for WARDEN Survival Escape on Roblox.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050912",
+  "theme_color": "#07111f",
+  "icons": [
+    {
+      "src": "/game/official-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

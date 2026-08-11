@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wardensurvivalescape.wiki/sitemap.xml
+Host: wardensurvivalescape.wiki

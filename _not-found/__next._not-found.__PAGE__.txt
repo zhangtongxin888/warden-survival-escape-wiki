@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[44132,["/_next/static/chunks/04nls4_if5l0c.js","/_next/static/chunks/0sx6b3.maim68.js"],""]
+3:I[62061,["/_next/static/chunks/04nls4_if5l0c.js","/_next/static/chunks/0sx6b3.maim68.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"legal","children":[["$","span",null,{"className":"eyebrow","children":"404 · LOST IN THE UNKNOWN"}],["$","h1",null,{"children":"THIS PATH GOES NOWHERE"}],["$","p",null,{"children":"The guide page you requested does not exist or has moved."}],["$","p",null,{"style":{"marginTop":"1rem"},"children":["$","$L2",null,{"className":"text-link","href":"/","children":"Return to the field guide →"}]}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"_rrWgCsG80MW6xVOMwszS"}
+5:null

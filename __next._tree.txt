@@ -1,0 +1,3 @@
+:HL["/_next/static/chunks/03x.g7z8-xb9a.css","style"]
+:HL["/game/official-boss.png","image",{"imageSizes":"(max-width: 920px) 100vw, 55vw","fetchPriority":"high"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"_rrWgCsG80MW6xVOMwszS"}
